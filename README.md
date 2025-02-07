@@ -7,3 +7,9 @@ This is a loose collection of knowledge (scripts, documentation) about using ava
 
 Find a summary [here](speech_recognition/whisper/README.md)
 
+# speech synthesis
+
+## Coqui TTS
+
+Find a summary [here](speech_synthesis/coqui/README.md)
+
