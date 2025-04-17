@@ -1,0 +1,16 @@
+accelerate>=1.1.0
+alive-progress
+datasets>=2.6.1
+evaluate>=0.3.0
+jiwer
+librosa
+py7zr
+streamlit==1.32.0
+tensorboard
+transformers>=4.30.0
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch
+torchvision
+torchaudio
+huggingface-hub
+requests
